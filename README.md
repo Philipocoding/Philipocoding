@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-🔭 I’m currently working on my A2 Coursework
-⚡ My main programming language currently is C#
-🌱 I’m currently learning Python using the Tkinter library  
+-🔭 I’m currently working on my A2 Coursework
+-⚡ My main programming language currently is C#
+-🌱 I’m currently learning Python using the Tkinter library  
 <!--
 **Philipocoding/Philipocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
